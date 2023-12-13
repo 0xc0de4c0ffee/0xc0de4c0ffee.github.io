@@ -1,0 +1,14 @@
+{
+  "signer": "0xf7141EE0799EabfBD25CCc51C7aD0C5dE3a9A4A7",
+  "approval": null,
+  "records": {
+    "contenthash": null,
+    "address": {
+      "eth": "0x705FB9d0C36D962EE2732b8Bc4BBd8A08a2C026D"
+    },
+    "text": {
+      "avatar": "https://namesys.eth.limo/logo.png"
+    }
+  },
+  "githubid": "0xc0de4c0ffee"
+}
