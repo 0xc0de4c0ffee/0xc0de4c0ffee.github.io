@@ -1,17 +1,14 @@
 {
-  "signer": "0xe8acf143AFbF8B1371A20ea934D334180190Eac1",
-  "approval": "0xf2f7ef1b476ba3aed11aa4caa1cf9f08635d57b36f6ad20a35b61de0b12ba1dd119b5b3a30bb405b8d361a5d5766b084950d82150fee150a2af419007080c7021c",
+  "githubid": null,
+  "signer": null,
+  "approval": null,
   "records": {
-    "dev3.eth": {
-      "contenthash": "ipfs://bafybeiaxjn6quvvxr67gcwwqkagbhkohwbevqrz75g76ejytd6qrmz2bky",
-      "address": {
-        "eth": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF",
-        "btc": "1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa"
-      },
-      "text": {
-        "avatar": "https://namesys.eth.limo/logo.png"
-      }
+    "contenthash": null,
+    "address": {
+      "eth": null
+    },
+    "text": {
+      "avatar": null
     }
-  },
-  "githubid": "namesys-eth"
+  }
 }
