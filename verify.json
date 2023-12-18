@@ -1,5 +1,5 @@
 {
   "signer": "0x7c2a2fdFA6cd50a08CA316Dfc1686f0D78faA771",
-  "verified": false,
-  "accessKey": null
+  "verified": true,
+  "accessKey": "0x0b3b3d27484124b81ea34aa0eab1a67d4b49360f8409df619d81226ad081c1a51a51ab03012728b949b9171437085f9570253bc0720d45eba874839918a5ddfc1b"
 }
